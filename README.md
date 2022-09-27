@@ -6,3 +6,11 @@ Repositorio de Lenguaje de marcas
 - primero
 - segundo
 - tercero
+
+*primero
+
+*segundo
+
+*tercero
+
+.[marca].(https://www.marca.es)
