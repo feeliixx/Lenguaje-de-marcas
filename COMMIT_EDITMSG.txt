@@ -1,0 +1,16 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	renamed:    ../EJERCICIO3/EJERCICIO 3.html -> ../EJERCICIO 3.html
+#	new file:   ../EJERCICIO 6.html
+#	new file:   EJERCICIO5.html
+#	new file:   discografia.html
+#
+# Untracked files:
+#	../../IMG/
+#
