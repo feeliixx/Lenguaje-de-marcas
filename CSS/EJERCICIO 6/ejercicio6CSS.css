@@ -1,0 +1,20 @@
+div.capa1{
+    
+
+    width:50% ; 
+    border: 1px solid black ;
+    font-size: 1em;
+}
+
+div.capa2{
+    width: 33%; 
+    border: 1px solid red;
+    font-size: 1.2em;
+
+}
+
+div.capa3{
+    width:25% ; 
+    border: 1px solid blue ; 
+    font: size 0.8em;
+}
