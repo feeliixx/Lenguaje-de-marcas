@@ -1,0 +1,23 @@
+
+p.primero{
+margin: 0px;
+color: aquamarine;
+padding: 0px;
+border: solid black 5px;
+}
+
+p.segundo{
+margin: 5px;
+color: coral;
+padding: 5px;
+border: solid yellow 5px;
+background-color: aqua;
+}
+
+p.tercero{
+margin: 0px;
+color: yellow;
+padding: 20px;
+border: solid blue 5px;
+background-color: crimson;
+}
