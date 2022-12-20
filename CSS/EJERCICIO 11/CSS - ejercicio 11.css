@@ -1,0 +1,9 @@
+ol.primera{
+    list-style-type: style upper-roman;
+    text-indent: 10px;
+}
+
+ul.segunda{
+   list-style-image: url(../IMAGENES/hasbullah\ \(1\).jpg);
+
+}
