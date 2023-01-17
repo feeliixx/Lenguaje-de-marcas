@@ -1,5 +1,4 @@
 .cabecera{
-
 width: max-content;
 height: max-content;
 
@@ -15,4 +14,8 @@ width: 20%;
     width: 80%;
     overflow: auto;
 
+}
+
+.contenedora{
+    background-color: aquamarine;
 }
