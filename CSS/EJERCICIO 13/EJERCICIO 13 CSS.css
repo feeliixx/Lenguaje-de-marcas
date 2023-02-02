@@ -1,0 +1,35 @@
+#contenedora {
+    width: 100%;
+    background-color: black;
+}
+
+#cabecera {
+    width: inherit;
+    background-color: orangered;
+}
+
+#contenedoraMenuPrincipal{
+   padding: auto;
+   margin: auto; 
+}
+
+#menu {
+    background-color: white;
+    width: 20%;
+    float: left;
+}
+
+#principal {
+    overflow-y: scroll;
+    color: white;
+    width: 80%;
+    float: right;
+    background-color: black;
+}
+
+#pie {}
+
+#titulo {
+    color: white;
+    text-align: center;
+}

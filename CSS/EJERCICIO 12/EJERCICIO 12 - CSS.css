@@ -1,0 +1,21 @@
+.cabecera{
+width: max-content;
+height: max-content;
+
+}
+
+.capaIzquierda{
+
+width: 20%;    
+}
+
+.capaDerecha{
+    
+    width: 80%;
+    overflow: auto;
+
+}
+
+.contenedora{
+    background-color: aquamarine;
+}
